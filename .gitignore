@@ -3,5 +3,3 @@ __pycache__/
 encodings_cache.pkl
 _tmp_dlib_bin/
 _tmp_known_faces_src/
-test_inputs/
-already_checked_images/
